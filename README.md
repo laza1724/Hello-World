@@ -1,2 +1,6 @@
 # Hello-World
-my repository
+Hi all, 
+
+this is my fisrt step
+
+Many thanks
